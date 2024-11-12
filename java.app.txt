@@ -1,0 +1,4 @@
+// Código de interação do botão
+document.getElementById("sortear-btn").addEventListener("click", function() {
+    alert("Sorteio realizado!");
+});
